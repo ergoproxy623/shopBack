@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "furniture-status",
+  "private_key_id": "473c6bb8f8cc0dbecac1b691da87183b40b8d429",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCNmgc0vNI6KuCt\nsDhIhGEYKptL3B1RZlLBMPHR2OJ0wGbDAp7H4m+jrO2yEwIQSNS/0PesUw6a8dOH\n/n6ODLBC7iNtv0x4HDak2VXHmSQBBsmPp3C0Qmea0WETpmWCRFoWKjx1QvLkQxQX\n6pZUbvjeW4Z6b1Kyi0Uw+PJYugfQWbCTSZPzjs9Rs7GqTW6PCfPRrPwYmXCk0Hmd\nmUIEXuUkENuEmjZrv7GiTyGBxl0p06YPIX0REclr3AGzb+QjTHrIZzPe0J6khyPT\nsx7hYmJF/803uvuQDK5A6jn/sTAWsCWq0OJJiWffbIKF6Ij43EFRjniNkDV9yAVu\nPaBY7K3pAgMBAAECggEANbn1dfsWwN839G7iTBF+TY8M8VGJBjOOvqJ1fiuOcMH3\nu5Io8KpntXCNl31C0S7xGf6NmqLA7eVHX1geaIND9YEpjCCDQSdjTFTyCRN/56vN\nmmXri1mOud0ruiruZOjOTY6k9dD7G8SfwRtPAqZAYw3TDm1isT/KdvRd73BWOqTc\npGIZAtsy0xcDaJ3exBB1CjjTTY4K934tmp012H4tMN0wnS2/Lpy+KyD52/jOzyor\nxgl2Yzb8jU5ud0N31VwrlObJLzol/QtGXbRnJN9MKQaJDdIcuEF+yLTTB+MpGj2q\n5bw9qzqUjH0z6ZRNHU0xwstQrTmw7hUlRpMNENDXiQKBgQDDfsKnsgwltJyAnzo0\nUX/bY9BuS48szwTDil9VmhLhw/R5BgFr4LUyjEChLuhebbakpu0UIKtYrbnGlfPV\nqd5me5NVky37dXwXUSpz9/Jbzbi9yEiwobTczUiZS8pawyISCzwCEwAY8THCV645\ntVcgq7FMsC+17boOknkkRUxZOwKBgQC5bT5JSz9bHsU3WQReHAa89bKTNliQlIh4\n7yTAensQv5rlto7H0k4WKLMhs4LvuYeHxxKIzlRdTWl0kMAI3X/G/isrrIUT51rn\nhP8tUW9bEoNJSmRzThDAB7imhcG4Iqpgbnt+ed1B7VN5wOQHYwprKiAYcUYUSgvp\nb7n8v0oDKwKBgQCaD8hZHZBDGq2HE3RsDJolC+kTMoqXdmG7s81jiXM95g5AXcI7\nAK/rMOox2+SVngKkiUQma4R88xOHc17gT+kLfHFkrAM9up1bRsSc9ZZSULI5JaBb\nSmRc6Y4/+KF0m3i7HY1h2RVnkpRzImQT6FvMTGICHIrM5ZaNq1K6ib4cRwKBgHnH\n15qHgwqzQM9C9W1hdsNvkmLA1JXQF3llhnurdVvgmzi3FzsBUiuXe15s6VfMP8ja\n479Z02qbxuC5mIW6A4uLroq2eYhC8B8R6A25aCsmE3d1FlfsM3ALIiirvDjU+5Tt\nusmr+7aqyaIzHxAC6frL5dxnuKDmqMAdksb+UvuVAoGBAJL0NRjBET5EH6vDYDzR\npr2TBMuHxsWQj1RVekMtEVqhKt1PhHlrpw9wE09ue62cXBfEY7fheb/Mk+pExdJT\nJ8CdM1+99YFS4QFO7A54qr/oRLoVX1vRN27Wco4HNtzJPpCzP+obS5TsVu/LkxWz\nRffiH76SjBR0jVYcFMi2O0be\n-----END PRIVATE KEY-----\n",
+  "client_email": "admin-241@furniture-status.iam.gserviceaccount.com",
+  "client_id": "107149574366276049533",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/admin-241%40furniture-status.iam.gserviceaccount.com"
+}
